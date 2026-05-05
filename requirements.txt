@@ -1,0 +1,14 @@
+# Potato Chip Defect Detector — Requirements
+# Python 3.12.7
+# Install with: pip install -r requirements.txt
+
+# Potato Chip Defect Detector — Requirements
+# Python 3.12.7
+# opencv-python-headless is required for Streamlit Community Cloud
+# (opencv-python pulls in GUI libs that don't exist on cloud servers)
+
+ultralytics==8.3.145
+streamlit==1.45.0
+opencv-python-headless==4.11.0.86
+pillow==11.2.1
+numpy==1.26.4
