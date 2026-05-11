@@ -12,4 +12,3 @@ streamlit==1.45.0
 opencv-python-headless==4.11.0.86
 pillow==11.2.1
 numpy==1.26.4
-opencv-python==null
