@@ -363,7 +363,7 @@ with st.sidebar:
     st.markdown('<div class="section-label" style="margin-top:16px">ℹ Model info</div>', unsafe_allow_html=True)
     st.markdown(f"""
     <div class="info-box">
-    Model  → YOLOv8n<br>
+    
     Classes → broken_chip, whole_chip<br>
     Conf   → {conf_thresh:.2f}<br>
     Device → CPU
@@ -374,7 +374,7 @@ with st.sidebar:
 st.markdown("""
 <div class="main-header">
     <h1>🔍 Potato Chip Defect Detector</h1>
-    <p>COMPUTER VISION · YOLOV8 · REAL-TIME QUALITY INSPECTION</p>
+    <p>COMPUTER VISION · REAL-TIME QUALITY INSPECTION</p>
 </div>
 """, unsafe_allow_html=True)
 
