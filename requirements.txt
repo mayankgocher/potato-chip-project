@@ -7,6 +7,7 @@
 # opencv-python-headless is required for Streamlit Community Cloud
 # (opencv-python pulls in GUI libs that don't exist on cloud servers)
 
+opencv-python-headless
 ultralytics==8.3.145
 streamlit==1.45.0
 opencv-python-headless==4.11.0.86
