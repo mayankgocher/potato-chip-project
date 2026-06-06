@@ -19,7 +19,7 @@ venv\Scripts\activate
 ```
 Mac/Linux:
 ```bash
-source venv/bin/activate
+source  venv/bin/activate
 ```
 
 ### 4. Install dependencies
@@ -54,7 +54,7 @@ The dashboard opens automatically at http://localhost:8501
 
 ## Classes
 - 🟢 `whole_chip` — intact chip
-- 🔴 `broken_chip` — defective/broken chip
+- 🔴 `broken_chip` — defective/broken chip 
 
 ## Model
 - Architecture: YOLOv8n (nano)
